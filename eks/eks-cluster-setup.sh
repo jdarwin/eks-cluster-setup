@@ -1,4 +1,4 @@
-# Variables
+## Variables
 CLUSTER_NAME=vprofile-eks-cluster
 REGION=eu-central-1
 NODE_NAME=Linux-nodes
